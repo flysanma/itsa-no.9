@@ -1,11 +1,15 @@
 # itsa-no.9
+
 #include <iostream>  
 #include <math.h>  
 using namespace std;  
    
 int main() {  
+    
     int a=0;                //定義變數
+    
     int b=0;  
+    
     cin>>a;                 //輸入一個變數
    
     for (int i = 1; i <= a; i++)             //for迴圈,只要i小於a,i便會一直加一
