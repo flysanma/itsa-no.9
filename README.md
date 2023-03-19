@@ -1,13 +1,13 @@
 # itsa-no.9
 
+
 #include <iostream>  
 #include <math.h>  
 using namespace std;  
-   
-int main() {  
+  
+ int main() {  
     
     int a=0;                //定義變數
-    
     int b=0;  
     
     cin>>a;                 //輸入一個變數
